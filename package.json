@@ -1,5 +1,5 @@
 {
-  "name": "@softis/eslint-config",
+  "name": "@hello.softis/eslint-config",
   "version": "1.0.0",
   "private": false,
   "description": "ESLint configuration used by Softis.",
