@@ -1,6 +1,6 @@
 {
   "name": "@softis/eslint-config",
-  "version": "2.2.2",
+  "version": "1.0.0",
   "private": false,
   "description": "ESLint configuration used by Softis.",
   "main": "index.js",
