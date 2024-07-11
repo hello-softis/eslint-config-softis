@@ -14,13 +14,13 @@
 
 Install dependencies:
 ```
-npm i -D eslint @softis/eslint-config
+npm i -D eslint @hello.softis/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
   "extends": [
-    "@softis/eslint-config/next", 
+    "@hello.softis/eslint-config/next", 
     "next/core-web-vitals"
   ]
 }
@@ -30,12 +30,12 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @softis/eslint-config
+npm i -D eslint @hello.softis/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@softis/eslint-config/react"
+  "extends": "@hello.softis/eslint-config/react"
 }
 ```
 
@@ -43,11 +43,11 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @softis/eslint-config
+npm i -D eslint @hello.softis/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@softis/eslint-config/node"
+  "extends": "@hello.softis/eslint-config/node"
 }
 ```
