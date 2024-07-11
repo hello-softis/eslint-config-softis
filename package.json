@@ -6,7 +6,10 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "hello-softis/eslint-config-softis"
+    "url": "git+https://github.com/hello-softis/eslint-config-softis.git"
+  },
+    "publishConfig": {
+    "access": "public"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
@@ -20,7 +23,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
-    "eslint": "^8.56.0",
+    "eslint": "^8.0.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.29.1",
@@ -30,6 +33,7 @@
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "prettier": "^3.2.5"
+    "prettier": "^3.2.5",
+    "xdg-utils": "^0.0.3"
   }
 }
